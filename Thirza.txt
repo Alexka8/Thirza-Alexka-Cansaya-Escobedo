@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="KEYWORD" content="Xiomara Celina Rivas Mamani">
-    <title>Xiomara Celina Rivas Mamani</title>
+    <meta name="KEYWORD" content="Thirza Alexka Cansaya Escobedo">
+    <title>Thirza Alexka Cansaya Escobedo</title>
     <style>
         /* General styling */
         body {
@@ -91,11 +91,11 @@
 </head>
 <body>
 
-    <h1>Xiomara Celina Rivas Mamani</h1>
+    <h1>Thirza Alexka Cansaya Escobedo</h1>
 
     <div class="content-box">
-        <h3>Hola, mi nombre es Xiomara Celina Rivas Mamani</h3>
-        <p>Tengo 18 años y resido en el distrito de Miraflores, en la ciudad de Arequipa. Actualmente, estoy cursando la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>.
+        <h3>Hola, mi nombre es Thirza Alexka Cansaya Escobedo</h3>
+        <p>Tengo 19años y resido en el distrito de Miraflores, en la ciudad de Arequipa. Actualmente, estoy cursando la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>.
     </div>
 
     <div class="content-box">
